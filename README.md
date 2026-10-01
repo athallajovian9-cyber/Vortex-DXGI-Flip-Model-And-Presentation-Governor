@@ -19,7 +19,7 @@ No installer, no dependencies, and no admin unless the tool says it needs it.
 ## Notes
 
 - Portable. Nothing is written outside your user profile.
-- The source sits in this repo next to the build.
+- Prebuilt binary only. The source is not published in this repository.
 - Questions and bug reports: the [Discord](https://discord.gg/QtyBucygQ6), in `#help` and `#bug-reports`.
 
 ## Disclaimer
